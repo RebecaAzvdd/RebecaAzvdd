@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou uma desenvolvedora full-stack iniciante com experiência em desenvolvimento web utilizando Angular, Node.js, PHP e Laravel 11. Tenho proficiência em TypeScript e contribuo ativamente para práticas ágeis em equipes de desenvolvimento, como dailies e refinamentos.
+Sou uma desenvolvedora full-stack iniciante com experiência em desenvolvimento web utilizando Angular, Node.js, React, Java, Spring Boot e Laravel 11. Tenho proficiência em TypeScript e contribuo ativamente para práticas ágeis em equipes de desenvolvimento, como dailies e refinamentos.
 
 Possuo experiência prática com Docker, AWS e documentação de APIs utilizando Swagger. Com foco em colaboração e boas práticas, estou sempre em busca de aprender e crescer como desenvolvedora, contribuindo para soluções digitais escaláveis e impactantes.
 
